@@ -90,6 +90,3 @@
 		props: ['video', 'saveVideo', 'buttonText'],
 	}
 </script>
-
-
-
